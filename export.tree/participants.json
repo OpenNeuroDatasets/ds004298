@@ -1,0 +1,14 @@
+{
+  "participant_id": {
+    "Description": "Participant identifier"
+  },
+  "age": {
+    "Description": "Age in years at time of imaging"
+  },
+  "sex": {
+    "Description": "self-rated by participant, m for male/ f for female "
+  },
+  "disease_duration": {
+    "Description": "time since Parkinson's disease diagnosis at the time of imaging (years)"
+  }
+}
