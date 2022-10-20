@@ -11,7 +11,7 @@
         "Ali R. Khan",
         "Jonathan C. Lau"
     ],
-    "Acknowledgements": "If using neuroimaging or AFIDs data please cite: \nAbbass, M. et al. Application of the anatomical fiducials framework to a clinical dataset of patients with Parkinson’s disease. Brain Struct. Funct. 227, 393–405 (2022)",
+    "Acknowledgements": "",
     "License": "CC0",
     "HowToAcknowledge": "If using neuroimaging or AFIDs data please cite:\n \nAbbass, M. et al. Application of the anatomical fiducials framework to a clinical dataset of patients with Parkinson’s disease. Brain Struct. Funct. 227, 393–405 (2022)"
 }
