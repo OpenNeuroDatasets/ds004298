@@ -1,5 +1,0 @@
-The London Health Sciences Center Parkinson’s disease (LHSCPD) dataset consists of 40 subjects diagnosed with Parkinson’s Disease (age: 60.2 ± 6.8, sex: 13 female and 27 male) and have undergone Deep Brain Stimulation (DBS) surgery. 
-
-The subjects had pre-DBS gadolinium-enhanced imaging collected at our institution (University Hospital in London, ON, Canada) with a 1.5 T scanner (Signa, General Electric, Milwaukee, Wisconsin, USA). 
-
-We also release anatomical fiducial (AFIDs) placements on this local dataset. AFIDs placements were performed using 3D Slicer version 4.10.0 on structural T1w images. A total of 5 AFIDs protocol applications were performed (6,400 fiducials).
