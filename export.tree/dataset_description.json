@@ -1,0 +1,21 @@
+{
+    "Name": "London Heath Sciences Center Parkinson's Disease Dataset (LHSCPD)",
+    "BIDSVersion": "1.7.0",
+    "Authors": [
+        "Mohamad Abbass",
+        "Greydon Gilmore",
+        "Alaa Taha",
+        "Ryan Chevalier",
+        "Magdalena Jach",
+        "Terry M. Peters",
+        "Ali R. Khan",
+        "Jonathan C. Lau"
+    ],
+    "Acknowledgements": "",
+    "License": "CC0",
+    "HowToAcknowledge": "If using neuroimaging or AFIDs data please cite:\n \nAbbass, M. et al. Application of the anatomical fiducials framework to a clinical dataset of patients with Parkinson’s disease. Brain Struct. Funct. 227, 393–405 (2022)",
+    "EthicsApprovals": [
+        "The release of this data was approved by the Human Subject Research Ethics Board (HSREB) office at the University of Western Ontario (REB# 109045)."
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004298.v1.0.1"
+}
